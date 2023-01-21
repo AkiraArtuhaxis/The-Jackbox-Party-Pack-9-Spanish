@@ -1567,7 +1567,7 @@
             "WRITING_STEPS_3": "¡A saltar!",
             "MYSTERY_STEPS_1": "¡Otra vez es hora de<br/>comprar!",
             "MYSTERY_STEPS_2": "Hay un objeto misterioso.",
-            "SKIP_INTERACTION_PROMPT": "Presiona SALTAR en tu dispositivo para omitir el tutorial",
+            "SKIP_INTERACTION_PROMPT": "Pulsa SALTAR en tu dispositivo para omitir el tutorial",
             "SKIP_INTERACTION_CHOICE": "Saltar",
             "SHOPPING": "COMPRAS",
             "SHOPPING_CHOOSE_ITEM": "¿Qué artículo te gustaría comprar?",
@@ -1744,7 +1744,7 @@
             "CREDITS_LYRIC_21": "Dime si esto tiene para ti",
             "CREDITS_LYRIC_22": "algún valor",
             "CREDITS_LYRIC_23": "Lo decides tú",
-            "CREDITS_LYRIC_24": "En Junktopia"
+            "CREDITS_LYRIC_24": "Es Junktopia"
         }
     }
 }

@@ -1,0 +1,131 @@
+{
+ "fields": [
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasBumperAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasKeywordAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasCorrectAudio"
+  },
+  {
+   "t": "B",
+   "v": "true",
+   "n": "HasQuestionAudio"
+  },
+  {
+   "t": "A",
+   "v": "bumperAudio",
+   "n": "BumperAudio"
+  },
+  {
+   "t": "A",
+   "v": "correctAnswer",
+   "n": "CorrectAudio",
+   "s": "La roca espacial, \"del tamaño de un melón\", había hecho un agujero en el techo y aterrizó a unos centímetros de su cabeza."
+  },
+  {
+   "t": "A",
+   "v": "questionAudio",
+   "n": "QuestionAudio",
+   "s": "¡Arriba! En 2021, Ruth Hamilton, residente de la canadiense Columbia Británica, se despertó de golpe en medio de la noche y se encontró un {{BLANK}} en su cama."
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasPic"
+  },
+  {
+   "t": "G",
+   "v": "picture",
+   "n": "Pic"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasSetupVideo"
+  },
+  {
+   "t": "",
+   "v": "setupVideo",
+   "n": "SetupVideo"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasSetupAudio"
+  },
+  {
+   "t": "A",
+   "v": "setupAudio",
+   "n": "SetupAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasFeaturedStill"
+  },
+  {
+   "t": "G",
+   "v": "featuredStill",
+   "n": "FeaturedStill"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasTransitionStill"
+  },
+  {
+   "t": "G",
+   "v": "transitionStill",
+   "n": "TransitionStill"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasSetupSubtitles"
+  },
+  {
+   "t": "",
+   "v": "setupSubtitles",
+   "n": "SetupSubtitles"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRevealVideo"
+  },
+  {
+   "t": "",
+   "v": "revealVideo",
+   "n": "RevealVideo"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRevealAudio"
+  },
+  {
+   "t": "A",
+   "v": "revealAudio",
+   "n": "RevealAudio"
+  },
+  {
+   "t": "B",
+   "v": "false",
+   "n": "HasRevealSubtitles"
+  },
+  {
+   "t": "",
+   "v": "revealSubtitles",
+   "n": "RevealSubtitles"
+  }
+ ]
+}
