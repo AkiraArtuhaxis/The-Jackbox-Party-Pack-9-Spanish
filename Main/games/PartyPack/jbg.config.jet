@@ -11,7 +11,7 @@
 	"dev-console":"false",
 	"canPauseOnPressStart":"true",
 	"videoplayer":"true",
-	"uaVersionId":"2.0.0",
+	"uaVersionId":"2.0.1",
 	"video-extension":".usm",
 	"supportsFullScreen":"true",
 	"supportedLocales":"de,en,es,es-XL,fr,it",
@@ -22,11 +22,11 @@
 	"env":"pc",
 	"supportsKeyboard":"true",
 	"showBuildVersion":"true",
-	"reportMetrics":"true",
+	"reportMetrics":"false",
 	"legalText":"jackboxFmodCriware",
 	"needExitbutton":"true",
 	"isBundle":"true",
 	"audio-extension":".ogg",
-	"buildTimeStamp":"2022-12-12 02:12:21",
-	"buildVersion":"589.3-ES"
+	"buildTimeStamp":"2023-01-25 22:20:40",
+	"buildVersion":"653.1-ES"
 }

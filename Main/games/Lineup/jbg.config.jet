@@ -15,7 +15,7 @@
 	"gameTag":"lineup",
 	"nameSwapRow":"7",
 	"dev-console":"false",
-	"uaVersionId":"2.0.0",
+	"uaVersionId":"2.0.1",
 	"wabamChance":"0.02",
 	"canPauseOnPressStart":"true",
 	"showBuildVersion":"true",
@@ -36,7 +36,7 @@
 	"uaAppId":"Lineup",
 	"jokeBlockMaxDelayInSec":"180",
 	"finalRoundAttempts":"2",
-	"reportMetrics":"true",
+	"reportMetrics":"false",
 	"jokeBlockMinDelayInSec":"30",
 	"video-extension":".usm",
 	"protocol":"https",
@@ -57,6 +57,6 @@
 	"blockScoreOffset1":"500",
 	"connectingDurationTrouble":"15000",
 	"blockScoreOffset0":"1000",
-	"buildTimeStamp":"2022-12-12 02:35:53",
-	"buildVersion":"589"
+	"buildTimeStamp":"2023-01-25 22:46:57",
+	"buildVersion":"653"
 }

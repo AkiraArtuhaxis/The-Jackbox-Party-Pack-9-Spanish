@@ -3,7 +3,7 @@
 	"connectingDurationAbort":"45000",
 	"jsonDataRoot":"json",
 	"flashKeyboard":"true",
-	"reportMetrics":"true",
+	"reportMetrics":"false",
 	"audio-extension":".ogg",
 	"needExitbutton":"true",
 	"dev-console":"false",
@@ -24,13 +24,13 @@
 	"video-extension":".usm",
 	"legalText":"jackboxFmodCriware",
 	"supportsMouse":"true",
-	"uaVersionId":"2.0.0",
+	"uaVersionId":"2.0.1",
 	"canPauseOnPressStart":"true",
 	"gameTag":"range-game",
 	"defaultLocale":"en",
 	"logging":"false",
 	"showBuildVersion":"true",
 	"supportedLocales":"de,en,es,es-XL,fr,it",
-	"buildTimeStamp":"2022-12-12 02:32:39",
-	"buildVersion":"589"
+	"buildTimeStamp":"2023-01-25 22:43:49",
+	"buildVersion":"653"
 }

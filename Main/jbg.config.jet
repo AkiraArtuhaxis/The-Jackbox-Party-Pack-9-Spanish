@@ -7,7 +7,7 @@
 	"dev-console":"false",
 	"video-extension":".usm",
 	"connectingDurationAbort":"45000",
-	"reportMetrics":"true",
+	"reportMetrics":"false",
 	"supportsJoysticksHotplugging":"true",
 	"logging":"false",
 	"serverUrl":"ecast.jackboxgames.com",
@@ -23,11 +23,11 @@
 	"uaAppName":"TJPP9Loader",
 	"supportedLocales":"de,en,es,es-XL,fr,it",
 	"supportsKeyboard":"true",
-	"uaVersionId":"2.0.0",
+	"uaVersionId":"2.0.1",
 	"legalText":"jackboxFmodCriware",
 	"showBuildVersion":"true",
 	"canPauseOnPressStart":"true",
 	"gameName":"TJPPLoader",
-	"buildTimeStamp":"2022-12-12 02:11:18",
-	"buildVersion":"589.3-ES"
+	"buildTimeStamp":"2023-01-25 22:19:21",
+	"buildVersion":"653.1-ES"
 }

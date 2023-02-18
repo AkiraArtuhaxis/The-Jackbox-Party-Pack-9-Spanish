@@ -21,8 +21,8 @@
 	"connectingDurationTrouble":"15000",
 	"gameId":"8a34f379-00dc-495b-90de-b2be4382baea",
 	"video-extension":".usm",
-	"reportMetrics":"true",
-	"uaVersionId":"2.0.0",
+	"reportMetrics":"false",
+	"uaVersionId":"2.0.1",
 	"videoplayer":"true",
 	"audio-extension":".ogg",
 	"gameName":"MakeFriends",
@@ -30,6 +30,6 @@
 	"protocol":"https",
 	"logging":"false",
 	"supportedLocales":"de,en,es,es-XL,fr,it",
-	"buildTimeStamp":"2022-12-12 02:26:55",
-	"buildVersion":"589"
+	"buildTimeStamp":"2023-01-25 22:37:55",
+	"buildVersion":"653"
 }

@@ -10,7 +10,7 @@
 	"supportsMouse":"true",
 	"connectingDurationAbort":"45000",
 	"flashKeyboard":"true",
-	"reportMetrics":"true",
+	"reportMetrics":"false",
 	"jsonDataRoot":"json",
 	"gameName":"Fibbage4",
 	"debug":"false",
@@ -23,7 +23,7 @@
 	"defaultLocale":"en",
 	"supportsFullScreen":"true",
 	"video-extension":".usm",
-	"uaVersionId":"2.0.0",
+	"uaVersionId":"2.0.1",
 	"supportedLocales":"de,en,es,es-XL,fr,it",
 	"needExitbutton":"true",
 	"gameTag":"fourbage",
@@ -31,6 +31,6 @@
 	"connectingDurationTrouble":"15000",
 	"showBuildVersion":"true",
 	"protocol":"https",
-	"buildTimeStamp":"2022-12-12 02:21:35",
-	"buildVersion":"589"
+	"buildTimeStamp":"2023-01-25 22:33:10",
+	"buildVersion":"653"
 }
