@@ -402,7 +402,7 @@
             "BLOCK_FALLING_SPEED_DESCRIPTION": "Tiempo que tardan los bloques en bajar un espacio. (Valor por defecto: 2)",
             "CONTROL_BLOCKS_GAMEPAD": "Controlar bloques con el control",
             "CONTROL_BLOCKS_GAMEPAD_DESCRIPTION": "Controla el movimiento de los bloques con el control además de los dispositivos de jugador.",
-            "MOVIE_SUBTITLES": "Subtítulos",
+            "MOVIE_SUBTITLES": "Subtítulos de video",
             "MOVIE_SUBTITLES_DESCRIPTION": "Muestra subtítulos de las preguntas en video.",
             "SKIP_CATEGORY_PICKER": "Modo En calma y controlado",
             "SKIP_CATEGORY_PICKER_DESCRIPTION": "Evita el caos de las categorías voladoras y deja que el juego elija el tema por ti.",
