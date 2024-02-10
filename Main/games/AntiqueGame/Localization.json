@@ -1647,7 +1647,7 @@
             "PRESENTATION_CHOICE_PROMPT": "¿Qué quieres mostrar?",
             "PRESENTATION_CHOICE_SHOW_TITLE": "[line]Mostrar título[/line][title]%s[/title]",
             "PRESENTATION_CHOICE_SHOW_FACT": "[line]Mostrar hecho %d[/line][title]%s[/title]",
-            "PRESENTATION_SUMMARY_CHOICE": "Resume y termina",
+            "PRESENTATION_SUMMARY_CHOICE": "Resumir y terminar",
             "PRESENTATION_REACTION_PROMPT": "¿Qué les pareció este artículo?",
             "PRESENTATION_REACTION_VOTED_UP_TEXT": "¡Te gustó este artículo!",
             "PRESENTATION_REACTION_VOTED_DOWN_TEXT": "No te gustó este artículo…",
